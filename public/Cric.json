@@ -1,0 +1,122 @@
+[
+  {
+    "playerId": 1,
+    "name": "Sakibul Hasan",
+    "country": "Bangladesh",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_q6NwCiMT4MkMswbVhF95Ct_wXr4bsLasYQ&s",
+    "role": "Wicketkeeper Batter",
+    "battingType": "Right-handed",
+    "bowlingType": "Right-arm medium",
+    "price": 70
+  },
+  {
+    "playerId": 2,
+    "name": "Tanzid Hasan",
+    "country": "Bangladesh",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe_WcIbHBZIMRRDEd75Z9WqQzCTdh1KHRCiUI3yi3rnnMW2INqwg4M6uFIB-Cr4vIbGTY&usqp=CAU",
+    "role": "Batter",
+    "battingType": "Right-handed",
+    "bowlingType": "Right-arm medium",
+    "price": 65
+  },
+  {
+    "playerId": 3,
+    "name": "Parvez Hossain Emon",
+    "country": "Bangladesh",
+    "image": "https://mkscricket.com/wp-content/uploads/2024/02/Parvez-Hossain-Emon-1.jpg",
+    "role": "Batter",
+    "battingType": "Left-handed",
+    "bowlingType": "Right-arm medium",
+    "price": 60
+  },
+  {
+    "playerId": 4,
+    "name": "Saif Hassan",
+    "country": "Bangladesh",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQkjxv2cnj0OPOWmAH2ZBqe0KN2UJHClEhE65f6uKoRR9REzBu536i6FVxeg18FH6J-sg&usqp=CAU",
+    "role": "Batter",
+    "battingType": "Right-handed",
+    "bowlingType": "Right-arm medium",
+    "price": 55
+  },
+  {
+    "playerId": 5,
+    "name": "Towhid Hridoy",
+    "country": "Bangladesh",
+    "image": "https://media.sportstiger.com/media/who-is-towhid-hridoy-sportstiger-1740057043454-large.webp",
+    "role": "Batter",
+    "battingType": "Right-handed",
+    "bowlingType": "Right-arm medium",
+    "price": 60
+  },
+  {
+    "playerId": 6,
+    "name": "Mahmudullah",
+    "country": "Bangladesh",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_w_1200,q_50/lsci/db/PICTURES/CMS/383400/383413.jpg",
+    "role": "All-Rounder",
+    "battingType": "Right-handed",
+    "bowlingType": "Right-arm offbreak",
+    "price": 75
+  },
+  {
+    "playerId": 7,
+    "name": "Mehidy Hasan Miraz",
+    "country": "Bangladesh",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRAFcigyjOnDqaU5hbMjhGPrr5bGNdujO_1A&s",
+    "role": "All-Rounder",
+    "battingType": "Right-handed",
+    "bowlingType": "Right-arm offbreak",
+    "price": 80
+  },
+  {
+    "playerId": 8,
+    "name": "Soumya Sarkar",
+    "country": "Bangladesh",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_wide_w_800,q_50/lsci/db/PICTURES/CMS/392800/392895.6.jpg",
+    "role": "All-Rounder",
+    "battingType": "Left-handed",
+    "bowlingType": "Right-arm medium",
+    "price": 70
+  },
+  {
+    "playerId": 9,
+    "name": "Jaker Ali",
+    "country": "Bangladesh",
+    "image": "https://static.cricbuzz.com/a/img/v1/i1/c580887/jaker-leaves-no-stone-unturned-in-his-attempt-to-cement-place-in-test-squad.jpg?d=low&p=det",
+    "role": "Wicketkeeper Batter",
+    "battingType": "Right-handed",
+    "bowlingType": "Right-arm medium",
+    "price": 65
+  },
+  {
+    "playerId": 10,
+    "name": "Mushfiqur Rahim",
+    "country": "Bangladesh",
+    "image": "https://images.mid-day.com/images/images/2025/jun/Rahim-Jun-1750291256129_d.png",
+    "role": "Wicketkeeper Batter",
+    "battingType": "Right-handed",
+    "bowlingType": "Right-arm offbreak",
+    "price": 85
+  },
+  {
+    "playerId": 11,
+    "name": "Taskin Ahmed",
+    "country": "Bangladesh",
+    "image": "https://today.thefinancialexpress.com.bd/uploads/1748020303.jpg",
+    "role": "Bowler",
+    "battingType": "Right-handed",
+    "bowlingType": "Right-arm fast",
+    "price": 50
+  },
+  {
+    "playerId": 12,
+    "name": "Mustafizur Rahman",
+    "country": "Bangladesh",
+    "image": "https://e0.365dm.com/15/06/2048x1152/mustafizur-rahman-bangladesh-cricket-odi_3317735.jpg?20150713080352",
+    "role": "Bowler",
+    "battingType": "Left-handed",
+    "bowlingType": "Left-arm fast-medium",
+    "price": 60
+  }
+]

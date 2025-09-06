@@ -4,7 +4,8 @@ import dollar from "../assets/dollar 1.png";
 
 const Header = () => {
   return (
-    <header className="flex justify-between items-center p-4 shadow ">
+    <div className="relative ">
+      <header className="flex justify-between items-center p-4 shadow fixed top-0 right-0 left-0 mx-14">
       {/* Banner */}
       <div>
         <img src={banner} alt="Banner" className="h-12" />
@@ -24,6 +25,7 @@ const Header = () => {
         </div>
       </nav>
     </header>
+    </div>
   );
 };
 
